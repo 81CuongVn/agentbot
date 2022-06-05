@@ -32,7 +32,7 @@
     "snyk": "1.544.0",
     "sourcebin-wrapper": "^1.6.0",
     "string-similarity": "^4.0.4",
-    "topgg-autoposter": "^1.1.10",
+    "topgg-autoposter": "^2.0.1",
     "twemoji-parser": "^13.0.0",
     "weather-js": "^2.0.0",
     "yahoo-stock-api": "^1.0.6"
