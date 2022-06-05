@@ -33,7 +33,7 @@
     "sourcebin-wrapper": "^1.6.0",
     "string-similarity": "^4.0.4",
     "topgg-autoposter": "^1.1.10",
-    "twemoji-parser": "^13.0.0",
+    "twemoji-parser": "^14.0.0",
     "weather-js": "^2.0.0",
     "yahoo-stock-api": "^1.0.6"
   },
