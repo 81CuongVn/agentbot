@@ -14,7 +14,7 @@
     "dateformat": "4.5.1",
     "discord-giveaways": "^4.4.3",
     "discord.js": "^12.5.3",
-    "dotenv": "^8.2.0",
+    "dotenv": "^16.0.3",
     "ffmpeg-static": "^4.3.0",
     "graphlib": "^2.1.8",
     "is-url": "^1.2.4",
